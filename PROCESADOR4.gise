@@ -145,6 +145,9 @@
     <transform xil_pn:end_ts="1478744628" xil_pn:in_ck="4976892791720926953" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-85800771281939480" xil_pn:start_ts="1478744622">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="Tb_procesadorIntento_beh.prj"/>
       <outfile xil_pn:name="Tb_procesadorIntento_isim_beh.exe"/>
       <outfile xil_pn:name="fuse.log"/>
@@ -155,6 +158,10 @@
     <transform xil_pn:end_ts="1478744628" xil_pn:in_ck="-8238772808658214293" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="8272075932614338923" xil_pn:start_ts="1478744628">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="Tb_procesadorIntento_isim_beh.wdb"/>
       <outfile xil_pn:name="isim.cmd"/>
       <outfile xil_pn:name="isim.log"/>
